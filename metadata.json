@@ -1,0 +1,6 @@
+{
+  "name": "Lista Spesa Vocale",
+  "description": "Una fantastica lista della spesa smart con inserimento vocale, suggerimenti di prodotti, gestione categorie e importazione/esportazione dati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
